@@ -1,0 +1,4 @@
+emoji
+numpy
+pandas
+keras
